@@ -1,0 +1,8 @@
+openai-whisper
+torch
+torchvision
+torchaudio
+customtkinter
+pyinstaller
+python-docx
+fpdf2
